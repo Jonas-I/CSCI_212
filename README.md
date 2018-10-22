@@ -1,10 +1,12 @@
-## CSCI_212
+# CSCI_212
 Assignments completed in my coursework.
 
-# Assignment 2:
+## Assignment 2:
 B9615.java
+
 A Tic-Tac-Toe simulation.
 
-# Assignment 3:
+## Assignment 3:
 ATM9615.java
+
 An ATM simulation.
